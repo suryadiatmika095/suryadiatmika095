@@ -1,1 +1,1 @@
-![gta-v-michael-de-santa](https://github.com/suryadiatmika095/suryadiatmika095/assets/149358754/21d0589c-82c2-4269-813d-ad74e24102aa)
+![gta-v-michael-de-santa](https://github.com/suryadiatmika095/suryadiatmika095/assets/149358754/dfe3ff68-07d3-4c81-94b4-119f2d43bf85)
