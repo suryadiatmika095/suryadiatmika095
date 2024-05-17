@@ -15,8 +15,8 @@ Saya adalah seorang mahasiswa di Institut Bisnis dan Teknologi Indonesia. Saya m
 ![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=namakamu&show_icons=true)
 
 ## Cara Menghubungi Saya
-Kamu bisa menemukan saya di [LinkedIn](https://id.linkedin.com/in/i-putu-gede-surya-diatmika-523a41294) atau [Instagram](https://www.instagram.com/suryadiatmika95).
+Anda bisa menemukan saya di [LinkedIn](https://id.linkedin.com/in/i-putu-gede-surya-diatmika-523a41294) atau [Instagram](https://www.instagram.com/suryadiatmika95).
 
-Jangan ragu untuk menghubungi saya jika kamu memiliki pertanyaan atau ingin berkolaborasi pada proyek tertentu. Saya sangat senang untuk bisa berkenalan dengan anda!
+Jangan ragu untuk menghubungi saya jika anda memiliki pertanyaan atau ingin berkolaborasi pada proyek tertentu. Saya sangat senang untuk bisa berkenalan dengan anda!
 
 Terima kasih sudah mengunjungi profil saya! 😊
