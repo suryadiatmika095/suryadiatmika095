@@ -12,7 +12,7 @@ Saya adalah seorang mahasiswa di Institut Bisnis dan Teknologi Indonesia. Saya m
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## Statistik GitHub
-![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=namakamu&show_icons=true)
+![Statistik GitHub](https://github-readme-stats.vercel.app/api?username=suryadiatmika095&show_icons=true)
 
 ## Cara Menghubungi Saya
 Anda bisa menemukan saya di [LinkedIn](https://id.linkedin.com/in/i-putu-gede-surya-diatmika-523a41294) atau [Instagram](https://www.instagram.com/suryadiatmika95).
